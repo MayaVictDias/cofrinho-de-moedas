@@ -1,22 +1,6 @@
 
-public class Euro extends Moeda {
-
-	@Override
-	double valor() {
-		// TODO Auto-generated method stub
-		return 0;
-	}
-
-	@Override
-	void info() {
-		// TODO Auto-generated method stub
-		
-	}
-
-	@Override
-	void converter() {
-		// TODO Auto-generated method stub
-		
-	}
+public class Euro {
+	
+	// TODO herdar classe Moeda e implementar os metodos
 
 }
