@@ -1,3 +1,4 @@
+package main.java.cofrinhoDeMoedas;
 
 public class Euro extends Moeda {
 
